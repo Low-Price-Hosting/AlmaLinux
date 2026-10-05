@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "AlmaLinux",
+  "upstream": "https://github.com/AlmaLinux/container-images.git",
+  "ref": "main",
+  "revision": "12e33d6bc5f6b4628015caab77ff7443d48f7186"
+}
